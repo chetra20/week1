@@ -1,0 +1,3 @@
+A1=float(input("Enter your leght="))
+B1=float(input("Enter your width="))
+print("so : ",(A1*B1)/43560,"acers")

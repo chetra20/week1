@@ -1,0 +1,5 @@
+n=int(input("Enter your value of n is:"))
+if n>1:
+ print("so : ",(n)*(n+1)/2,"acers")
+else:
+ print("error")

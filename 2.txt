@@ -1,0 +1,4 @@
+A=float(input("Enter your leght="))
+B=float(input("Enter your width="))
+print("so area of the room is : ",A*B,"M2")
+
